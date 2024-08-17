@@ -20,6 +20,6 @@ docker build . -t <image_url>
 ```bash
 docker run -dp8080:80 -e APP_PORT=80 --rm <image_url>
 ```
-My Name is Kok Hui - testing 123, 456
+My Name is Kok Hui - testing 123, 456 - apple orange pear
 
 Jeff anyhow add
